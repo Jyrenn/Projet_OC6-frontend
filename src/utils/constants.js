@@ -1,4 +1,4 @@
-const API_URL = 'https://projet-oc6-backend.onrender.com/api';
+const API_URL = 'https://projet-oc6-backend.onrender.com';
 export const API_ROUTES = {
   SIGN_UP: `${API_URL}/api/auth/signup`,
   SIGN_IN: `${API_URL}/api/auth/login`,
